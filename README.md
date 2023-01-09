@@ -1,5 +1,5 @@
 # Shop
-Aplikacija prikazuje kategorizirane artikle sa cijenama. Crveno su označeni artikli koji nisu dostupnu. Mogućnost pretrage artikala pomoću search bara.
+Aplikacija prikazuje kategorizirane artikle sa cijenama. Crveno su označeni artikli koji nisu dostupni. Mogućnost pretrage artikala pomoću search bara.
 
 # Pokretanje
 U folderu gdje je package.json:
