@@ -1,3 +1,13 @@
+# Shop
+Aplikacija prikazuje kategorizirane artikle sa cijenama. Crveno su označeni artikli koji nisu dostupnu. Mogućnost pretrage artikala pomoću search bara.
+
+# Pokretanje
+U folderu gdje je package.json:
+`npm install`
+`npm run start`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
